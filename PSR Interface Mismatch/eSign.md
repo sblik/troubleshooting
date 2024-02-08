@@ -5,6 +5,10 @@ We have an intermittent error that occurs on the e-signature plugin after signin
 ```
 PHP Fatal error:  Declaration of Mpdf\PsrHttpMessageShim\Request::withRequestTarget(string $requestTarget): Psr\Http\Message\RequestInterface must be compatible with Psr\Http\Message\RequestInterface::withRequestTarget($requestTarget) in /home/customer/www/cryo.smplfy.dev/public_html/wp-content/plugins/e-signature/add-ons/esig-save-as-pdf/vendor/mpdf/psr-http-message-shim/src/Request.php on line 88
 ```
+or
+```
+PHP Fatal error:  Declaration of Mpdf\PsrHttpMessageShim\Request::withMethod(string $method): Psr\Http\Message\RequestInterface must be compatible with Psr\Http\Message\RequestInterface::withMethod($method) in /home/customer/www/cryo.smplfy.dev/public_html/wp-content/plugins/e-signature/add-ons/esig-save-as-pdf/vendor/mpdf/psr-http-message-shim/src/Request.php on line 105
+```
 
 ## Plugins Installed
 
