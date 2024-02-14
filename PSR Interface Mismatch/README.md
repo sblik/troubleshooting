@@ -10,7 +10,7 @@ The following packages have version 7.2+ of `psr\http-message` which has type su
 3. plugins\gravity-forms-pdf-extended\vendor_prefixed\psr\http-message\src
 
 ## Plugins with OUT OF DATE version of psr\http-message
-Whereas there are packages that use an older version that is 9 years old (2015).
+There are packages that use an older version that is 9 years old (2015).
 Ref: - https://github.com/php-fig/http-message/releases, https://www.php-fig.org/psr/psr-7/meta/#72-type-additions
 
 1. plugins\post-smtp\Postman\Postman-Mail\libs\vendor_prefixed\psr\http-message\src
