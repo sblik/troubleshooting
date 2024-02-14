@@ -2,12 +2,14 @@
 
 Our wordpress installation occasionally encounters a `PHP Fatal error` because of a signature mismatch between different version of the `psr\http-message` package that are in various plugins that we have installed.
 
+## Plugins with UP TO DATE version of psr\http-message
 The following packages have version 7.2+ of `psr\http-message` which has type support and primitive types are specified in many of the function parameters.
 
 1. plugins\e-signature\add-ons\esig-save-as-pdf\vendor\psr\http-message\src
 2. plugins\gravity-forms-pdf-extended\vendor\psr\http-message\src
 3. plugins\gravity-forms-pdf-extended\vendor_prefixed\psr\http-message\src
 
+## Plugins with OUT OF DATE version of psr\http-message
 Whereas there are packages that use an older version that is 9 years old (2015).
 Ref: - https://github.com/php-fig/http-message/releases, https://www.php-fig.org/psr/psr-7/meta/#72-type-additions
 
