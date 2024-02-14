@@ -1,6 +1,6 @@
 ### Introduction
 
-Our wordpress installation occasionally encounters a `PHP Fatal error` because of a signature mismatch between different version of the `psr\http-message` package that are in various plugins that we have installed.
+Our wordpress installation occasionally encounters a `PHP Fatal error` because of a signature mismatch between different version of the `psr\http-message` package that are in various plugins that we have installed. See more details about the error [here](https://github.com/sblik/troubleshooting/blob/main/PSR%20Interface%20Mismatch/e-signature.md)
 
 ## Plugins with UP TO DATE version of psr\http-message
 The following packages have version 7.2+ of `psr\http-message` which has type support and primitive types are specified in many of the function parameters.
