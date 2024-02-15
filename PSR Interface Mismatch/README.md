@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 Our wordpress installation occasionally encounters a `PHP Fatal error` because of a signature mismatch between different version of the `psr\http-message` package that are in various plugins that we have installed. See more details about the error [here](https://github.com/sblik/troubleshooting/blob/main/PSR%20Interface%20Mismatch/e-signature.md)
 
