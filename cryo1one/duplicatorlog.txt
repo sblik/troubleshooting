@@ -1,0 +1,254 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2024-05-30 16:39:30
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.17.4
+WORDPRESS:	6.1.6
+PHP INFO:	8.1.28 | SAPI: litespeed
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 256M (256M default) 
+RUN TYPE:	Template Default
+MEMORY STACK:	12MB
+ARCHIVE ENGINE: DupArchive
+PACKAGE COMPONENTS:
+	Database
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+TABLES: total: 56 | filtered:0 | create:56
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 2
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 2
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 82
+INSERT ROWS TABLE[INDEX:2] wp_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:3] wp_comments NUM ROWS: 26
+INSERT ROWS TABLE[INDEX:4] wp_duplicator_backups NUM ROWS: 3
+INSERT ROWS TABLE[INDEX:5] wp_duplicator_entities NUM ROWS: 10
+INSERT ROWS TABLE[INDEX:6] wp_gf_draft_submissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wp_gf_entry NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:8] wp_gf_entry_meta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:9] wp_gf_entry_notes NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:10] wp_gf_form NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:11] wp_gf_form_meta NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:12] wp_gf_form_revisions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wp_gf_form_view NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:14] wp_gf_rest_api_keys NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:15] wp_hustle_modules NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:16] wp_hustle_modules_meta NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:17] wp_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:18] wp_options NUM ROWS: 650
+INSERT ROWS TABLE[INDEX:19] wp_postmeta NUM ROWS: 8554
+INSERT ROWS TABLE[INDEX:20] wp_posts NUM ROWS: 1224
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:21] wp_revslider_css NUM ROWS: 109
+INSERT ROWS TABLE[INDEX:22] wp_revslider_css_bkp NUM ROWS: 109
+INSERT ROWS TABLE[INDEX:23] wp_revslider_layer_animations NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:24] wp_revslider_layer_animations_bkp NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:25] wp_revslider_navigations NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:26] wp_revslider_navigations_bkp NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:27] wp_revslider_sliders NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:28] wp_revslider_sliders_bkp NUM ROWS: 6
+INSERT ROWS TABLE[INDEX:29] wp_revslider_slides NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:30] wp_revslider_slides_bkp NUM ROWS: 6
+INSERT ROWS TABLE[INDEX:31] wp_revslider_static_slides NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:32] wp_revslider_static_slides_bkp NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:33] wp_rg_form NUM ROWS: 1
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:34] wp_rg_form_meta NUM ROWS: 1
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:35] wp_rg_form_view NUM ROWS: 4
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:36] wp_rg_incomplete_submissions NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:37] wp_rg_lead NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:38] wp_rg_lead_detail NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:39] wp_rg_lead_detail_long NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:40] wp_rg_lead_meta NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:41] wp_rg_lead_notes NUM ROWS: 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+INSERT ROWS TABLE[INDEX:42] wp_sgpb_subscribers NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:43] wp_sgpb_subscription_error_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:44] wp_smush_dir_images NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:45] wp_swift_performance_warmup NUM ROWS: 79
+INSERT ROWS TABLE[INDEX:46] wp_termmeta NUM ROWS: 30
+INSERT ROWS TABLE[INDEX:47] wp_terms NUM ROWS: 20
+INSERT ROWS TABLE[INDEX:48] wp_term_relationships NUM ROWS: 173
+INSERT ROWS TABLE[INDEX:49] wp_term_taxonomy NUM ROWS: 20
+INSERT ROWS TABLE[INDEX:50] wp_yoast_indexable NUM ROWS: 360
+INSERT ROWS TABLE[INDEX:51] wp_yoast_indexable_hierarchy NUM ROWS: 366
+INSERT ROWS TABLE[INDEX:52] wp_yoast_migrations NUM ROWS: 24
+INSERT ROWS TABLE[INDEX:53] wp_yoast_primary_term NUM ROWS: 41
+INSERT ROWS TABLE[INDEX:54] wp_yoast_seo_links NUM ROWS: 363
+INSERT ROWS TABLE[INDEX:55] wp_yoast_seo_meta NUM ROWS: 201
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+SQL FILE SIZE CHECK OK, SIZE: 8974599
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+SQL CREATED: Default_4c4fbeddb1a018744546_20240530163919_database.sql
+SQL FILE SIZE: 8.56MB
+SQL FILE TIME: 2024-05-30 16:39:32
+SQL RUNTIME: 1.767 sec.
+MEMORY STACK: 12MB
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/cryooneone/public_html
+ARCHIVE FILE: Default_4c4fbeddb1a018744546_20240530163919_archive.daf
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0 | Total 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+CREATE ARCHIVE STATE FOR DUP ARCHIVE
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+COMPRESSED SIZE: 3.6MB
+ARCHIVE RUNTIME: 1.479 sec.
+MEMORY STACK: 14MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+GOOGLE DRIVE: webg, https://drive.google.com/drive/folders/1bOh7r2K7S5yu6r9HEQK_qtOEZ2tQy3tT
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 8.56MB
+INSTALLER FILE: 167.73KB
+ARCHIVE FILE: 3.6MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 2
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 3.899 sec.
+PEAK PHP MEMORY USED: 12MB
+DONE PROCESSING => Default 2024-05-30 16:39:34
+
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** GOOGLE DRIVE [Name: webg] [ID: 10] **
+Copyng to Storage webg[ID: 10] type:Google Drive
+[PHP ERR][ISSUE] MSG:Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Cookie/Jar.php|LINE:63]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Cookie/Jar.php|LINE:73]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Cookie/Jar.php|LINE:89]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Cookie/Jar.php|LINE:102]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Cookie/Jar.php|LINE:111]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php|LINE:40]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php|LINE:51]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php|LINE:68]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php|LINE:82]
+[PHP ERR][ISSUE] MSG:Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php|LINE:91]
+[PHP ERR][ISSUE] MSG:http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated [CODE:8192|FILE:/home/cryooneone/public_html/wp-includes/Requests/Transport/cURL.php|LINE:345]
+Copying file: /home/cryooneone/public_html/wp-content/backups-dup-pro/Default_4c4fbeddb1a018744546_20240530163919_installer.php.bak
+Offset: 0 of: 171759
+Copying file: /home/cryooneone/public_html/wp-content/backups-dup-pro/Default_4c4fbeddb1a018744546_20240530163919_archive.daf
+Offset: 0 of: 3772526
+Copying file: /home/cryooneone/public_html/wp-content/backups-dup-pro/Default_4c4fbeddb1a018744546_20240530163919_archive.daf
+Offset: 1048576 of: 3772526
+Copying file: /home/cryooneone/public_html/wp-content/backups-dup-pro/Default_4c4fbeddb1a018744546_20240530163919_archive.daf
+Offset: 2097152 of: 3772526
+Copying file: /home/cryooneone/public_html/wp-content/backups-dup-pro/Default_4c4fbeddb1a018744546_20240530163919_archive.daf
+Offset: 3145728 of: 3772526
+Attempting to purge old packages at webg[ID: 10] type: Google Drive
+Purge of old packages at webg[ID: 10] storage completed. Num packages deleted 0
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+[PHP ERR][ISSUE] MSG:An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 [CODE:1024|FILE:/home/cryooneone/public_html/wp-content/plugins/gravityforms/gravityforms.php|LINE:6610]
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2024-05-30 16:39:43
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
+[PHP ERR][ISSUE] MSG:preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated [CODE:8192|FILE:/home/cryooneone/public_html/wp-content/plugins/js_composer/include/helpers/helpers_api.php|LINE:418]
+[PHP ERR][ISSUE] MSG:preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated [CODE:8192|FILE:/home/cryooneone/public_html/wp-content/plugins/js_composer/include/helpers/helpers_api.php|LINE:418]
