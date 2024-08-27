@@ -33,7 +33,7 @@ function redirect_to_payment( $confirmation, $form, $entry, $ajax ) {
  */
 function redirect_to_worldpay( $entry, string $today, string $uniqueid, string $buyerEmail ): array {
 //Mandatory Fields
-	$instID   = "REMOVED FOR SECURITY PURPOSES"; // 
+	$instID   = "REMOVED FOR SECURITY PURPOSES"; //Instalation ID for Select Junior - WILLEN HOSPICE VENTURES LTD - Select Junior FuturePay 
 	$currency = 'GBP';
 	$amount   = $entry['77'];
 	$cartid   = $today . "-" . $uniqueid;
