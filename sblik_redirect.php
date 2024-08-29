@@ -79,7 +79,7 @@ function redirect_to_worldpay( $entry, string $today, string $uniqueid, string $
 	$cancelURL  = SITE_URL ."/cancelled";
 
 
-	$worldPayURL = "https://secure-test.worldpay.com/wcc/purchase?instId=$instID&amount=$amount&currency=$currency&cartId=$cartid&startDelayMult=$final_frequency&startDelayUnit=1&futurePayType=regular&option=1&noOfPayments=$finalInterval&intervalMult=$final_frequency&intervalUnit=3&normalAmount=$amount&initialAmount=$amount&testMode=$testMode&MC_callback=$successURL";
+	$worldPayURL = "https://secure-test.worldpay.com/wcc/purchase?instId=$instID&amount=$amount&currency=$currency&cartId=$cartid&startDelayMult=$final_frequency&startDelayUnit=1&futurePayType=regular&option=1&noOfPayments=$finalInterval&intervalMult=$final_frequency&intervalUnit=3&normalAmount=$amount&initialAmount=$amount&testMode=$testMode";	
 	BS_Log::info( "WORLDPAY URL: ", $worldPayURL );
 
 	$confirmation = array( 'redirect' => $worldPayURL );
